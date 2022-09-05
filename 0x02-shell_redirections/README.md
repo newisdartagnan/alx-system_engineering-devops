@@ -1,0 +1,1 @@
+our shell about redirections
