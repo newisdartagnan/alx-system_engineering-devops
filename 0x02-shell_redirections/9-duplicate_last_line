@@ -1,2 +1,2 @@
 #!/bin/bash
-head iacta | tail -n 1 | sed p
+cat iacta | tail -n 1 | sed p
