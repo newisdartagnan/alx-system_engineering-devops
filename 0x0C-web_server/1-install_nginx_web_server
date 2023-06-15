@@ -9,5 +9,5 @@ echo 'server {
     location / {
         echo "Hello World!";
     }
-}' > /etc/nginx/sites-available/default
+}' > /var/www/html/index.nginx-debian.html
 service nginx restart
