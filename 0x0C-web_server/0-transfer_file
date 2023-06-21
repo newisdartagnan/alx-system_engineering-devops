@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Transfer a file from client to server
-# Example: ./0-transfer_file some_page.html 35.237.54.178 ubuntu ~/.ssh/holberton
+# Example: ./0-transfer_file some_page.html 18.234.106.16 ubuntu ~/.ssh/school
 
 if [ $# -eq 4 ]
 then
